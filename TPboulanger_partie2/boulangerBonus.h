@@ -1,5 +1,4 @@
 /*Bories Lucie
-  Nguyen James
   TP2 : FOURNISSEURS/BOULANGERS 
   Date du TP : 26/03/2024 */
 
